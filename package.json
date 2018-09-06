@@ -1,0 +1,23 @@
+{
+  "name": "editImage",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oskar Blaskiewicz",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.2.10",
+    "aws-sdk": "^2.196.0",
+    "ejs": "^1.0.0",
+    "gm": "",
+    "manager": "^1.0.9",
+    "moment": "^2.20.1",
+    "node": "^9.5.0",
+    "node-queue-manager": "^0.3.4",
+    "queue": "^4.4.2",
+    "webs-weeia": "0.0.2"
+  }
+}
